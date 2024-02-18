@@ -44,4 +44,8 @@ public class AppTest
      element.sendKeys("Youtube");
      element.submit();
      }
+     public void dummyMethodForGitCheck() {
+    	 System.out.println("Added method need to push to branch");
+    	 
+     }
 }
